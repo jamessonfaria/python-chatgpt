@@ -1,0 +1,7 @@
+Crie um programa em Python e Selenium para fazer o webscrape da seguinte pagina: 
+https://www.camilaklein.com.br/products/brinco-argola-com-cristais-regeneracao-ouro-velho
+
+Aguarde 5 segundos e localize o elemento <span class="price-item price-item--regular">
+
+Este código deve retornar na tela o valor do brinco, se o valor for menor que R$ 40,00. 
+Retorne "Compre Imediatamente"
